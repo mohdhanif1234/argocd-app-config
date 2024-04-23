@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
       - name: myapp
-        image: mohdhanif/hanifv2
+        image: mohdhanif/hanifv1
         ports:
         - containerPort: 8080
